@@ -1,0 +1,1 @@
+<p>Anda tidak di izinkan mengakses halaman ini, silahkan hubungi Administrator</p>
