@@ -40,7 +40,9 @@ ketik: php artisan migrate
 10. Jalankan seeder
 ketik: php artisan db:seed --class=RolePermissionSeeder lalu  php artisan db:seed --class=AdminUserSeeder.
 saat di laman login, gunakan data yang ada di AdminUserSeeder untuk login.
+jangan lupa juga untuk menjalankan perintah ini :
+npm install lalu npm run build.
 
-11. Jalankan server Laravel
+12. Jalankan server Laravel
 Ketik: php artisan serve
 
